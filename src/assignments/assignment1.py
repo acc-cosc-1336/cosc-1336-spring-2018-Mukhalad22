@@ -4,7 +4,7 @@ def add_numbers(val1, val2):
 
 def multiply_numbers(val1, val2):
     '''Type the correct code to multiply two numbers after the return statement.'''
-    return va11 * va12
+    return val1 * va12
 
 def square_number(val1):
     '''
