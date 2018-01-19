@@ -12,3 +12,4 @@ def square_number(val1):
     TO GET CREDIT YOU MUST USE THE PYTHON BUILT-IN FUNCTIONALITY FOR SQUARING NUMBERS!
     '''
     return val1 ** 2
+
